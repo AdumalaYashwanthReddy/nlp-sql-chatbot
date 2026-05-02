@@ -16,14 +16,14 @@ Built with LLaMA 3.3-70b (via Groq), SQLite, and Streamlit.
 
  Question  Type 
 ------
- What is the total revenue from shipped orders  Aggregation 
- Which city received the most orders  Grouping 
- Show me revenue by month  Time series 
- What is the cancellation rate by fulfilment type  Comparison 
- Which color has the highest revenue  JOIN query 
- Top 5 states by number of orders  Ranking 
- How many B2B orders are there  Filter 
- Which SKU sold the most units  JOIN + ranking 
+1.What is the total revenue from shipped orders  Aggregation 
+2.Which city received the most orders  Grouping 
+3.Show me revenue by month  Time series 
+4.What is the cancellation rate by fulfilment type  Comparison 
+5.Which color has the highest revenue  JOIN query 
+6.Top 5 states by number of orders  Ranking 
+7.How many B2B orders are there  Filter 
+8.Which SKU sold the most units  JOIN + ranking 
 
 ---
 
