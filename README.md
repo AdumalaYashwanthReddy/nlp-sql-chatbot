@@ -8,7 +8,7 @@ Built with LLaMA 3.3-70b (via Groq), SQLite, and Streamlit.
 
 ## Live Demo
 
-👉 [Try the chatbot here]([httpsyour-app-url.streamlit.app](https://nlp-sql-chatbot-kknj5jywvrv9jupkn3qmw3.streamlit.app/))
+👉 [Try the chatbot here](https://nlp-sql-chatbot-kknj5jywvrv9jupkn3qmw3.streamlit.app/)
 
 ---
 
