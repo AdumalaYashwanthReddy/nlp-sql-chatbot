@@ -47,7 +47,7 @@ Result → Streamlit UI
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 nlp-sql-chatbot
@@ -60,7 +60,7 @@ nlp-sql-chatbot
 
 ---
 
-## 🗄️ Database
+## Database
 
 The SQLite database contains two tables loaded from a real Kaggle e-commerce dataset
 
@@ -123,7 +123,7 @@ Tested against 15 natural language questions across 3 difficulty levels
 
 ---
 
-## ⚙️ Run Locally
+## Run Locally
 
 1. Clone the repository
 ```bash
@@ -157,7 +157,5 @@ Dataset [E-Commerce Sales Dataset](httpswww.kaggle.com) — Amazon India sales d
 
 ---
 
-## 👤 Author
-
-Author
+## Author
 Built as part of my AI Engineer learning journey — roadmap.sh/ai-engineer
